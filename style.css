@@ -16,17 +16,18 @@
   color: white;
   border: none;
   padding: 15px 30px;
-  border-radius: 25px;
-  font-size: 20px;
+  border-radius: 30px;
+  font-size: 10px;
 }
 
 .btn-secondary {
-  background-color: #35bf35;
+   background:linear-gradient(120deg,rgba(68, 124, 42, 1),
+ rgba(61, 184, 70, 1),rgba(68, 124, 42, 1)) ;
   color: white;
   border: none;
-  padding: 15px 30px;
-  border-radius: 10px;
-  font-size: 20px;
+  padding: 10px 30px;
+  border-radius: 30px;
+  font-size: 10px;
 }
 
 .btn-error {
